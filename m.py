@@ -400,9 +400,9 @@ Vip 🌟 :
 -> Concurrents Attack : 5
 
 Pr-ice List💸 :
-Day-->80 Rs
-Week-->400 Rs
-Month-->1000 Rs
+Day-->49 Rs
+Week-->249 Rs
+Month-->699 Rs
 BUY FROM:@neyooo00 '''
     bot.reply_to(message, response)
 
